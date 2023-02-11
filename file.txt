@@ -1,0 +1,10 @@
+0 Deliciously!
+1 I like to eat
+2 Food is power
+3 Maybe enough to eat?
+4 I died of obesity 
+5 Good play!
+6 Super play!
+7 I don't play much?
+8 Maybe enough to play
+9 I froze
